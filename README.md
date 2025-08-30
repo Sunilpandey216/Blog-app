@@ -25,6 +25,7 @@ A full-stack blog application built using the **MERN stack** (MongoDB, Express, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/blog-app.git
+git clone https://github.com/sunilpandey216/blog-app.git
 cd blog-app
+
 
